@@ -15,7 +15,7 @@ namespace WebApplication11.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = " new file";
+            ViewBag.Message = "  file";
 
             return View();
         }
